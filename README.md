@@ -1,5 +1,6 @@
 The Nano Tip Bot allows users to send the Nano cryptocurrency to users using only their Twitter handle.
 
+Created: Dec 2017 by Tesconanopay
 
 Commands
 
