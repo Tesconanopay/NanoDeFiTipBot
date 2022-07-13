@@ -82,4 +82,4 @@ for user in bbedward_users_existing:
         print("old tip bot account {} had no balance".format(user[2]))
     else:
         print("account {} balance moved to new account {}".format(user[2], migrate_account))
-
+move funds to mitche50's exit scam bot
